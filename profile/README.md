@@ -36,7 +36,7 @@ Lanying IM SDK is cross-platform, including mobile (iOS/Android), PC desktop (Li
 
 👩‍💻 All documents are also published on our official website [docs.lanyingim.com](https://docs.lanyingim.com).
 
-🙋‍♀️ Any questions will be answered in Issues of coordinate github repositories or [maxim bistro](https://github.com/maxim-top/maxim-bistro).
+🙋‍♀️ Need any help? Create issues in coordinate github repositories or [maxim bistro](https://github.com/maxim-top/maxim-bistro).
 
 Happy Hacking~~😊
 
