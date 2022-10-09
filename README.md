@@ -1,4 +1,4 @@
-#关于「蓝莺IM」
+# 关于蓝莺IM
 
 蓝莺IM，是由[美信拓扑](https://www.lanyingim.com/)团队研发的新一代即时通讯云服务，SDK设计简单集成方便，服务采用云原生技术和多云架构，私有云也可按月付费。
 
@@ -12,6 +12,9 @@
 
 蓝莺IM SDK 是跨平台的，包括移动端（iOS/Android）、PC桌面端（Linux/Windows/Mac）、Web浏览器端（包括H5）以及微信小程序等。
 
+了解更多信息，请访问官网 [www.lanyingim.com](https://www.lanyingim.com) 🚀🚀🚀😊😊😊🎉🎉🎉
+
+# About Lanying IM
 
 Lanying IM, developed by [MaximTop](https://www.lanyingim.com/) team, is a new generation IM cloud service. Benefits from cloud-native technologies and multi-cloud architecture, the private cloud is charged monthly as well as the public cloud.
 
@@ -26,3 +29,5 @@ One-click enable means from basic functions to service customization, all can be
 With the omnipotent console, there are only two things you need to do, one is to integrate Lanying IM SDK on the client side, and the other is to connect Lanying API service on the server side. This paper mainly introduces the work related to client SDK integration.
 
 Lanying IM SDK is cross-platform, including mobile (iOS/Android), PC desktop (Linux/Windows/Mac), Web browser (including H5) and WeChat applet. 
+
+For more information, please visit [www.lanyingim.com](https://www.lanyingim.com/en) 🚀🚀🚀😊😊😊🎉🎉🎉
