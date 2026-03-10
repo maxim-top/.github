@@ -17,7 +17,7 @@
 
 ### 🤖 智能集成优势
 
-蓝莺内置集成大模型 AI 服务。企业可直接在控制台一键接入 OpenAI ChatGPT、Microsoft Azure AI、百度文心一言等多种主流大模型。利用 **BlueVector 企业知识库**，支持上传文档快速定制专属 AI 助手。
+蓝莺内置集成大模型 AI 服务。企业可直接在控制台一键接入豆包、DeepSeek、智谱、Minimax、Kimi、阿里通义千问、百度文心一言、OpenAI ChatGPT、Anthropic Claude等多种主流大模型。利用 **BlueVector 企业知识库**，支持上传文档快速定制专属 AI 助手。
 
 ---
 
