@@ -17,7 +17,7 @@ Currently, **one out of every seven new smartphones shipped globally uses Lanyin
 
 ### 🤖 Intelligent AI Integration
 
-Lanying features built-in integration with Large Language Models (LLMs). Enterprises can directly activate and connect to models such as OpenAI ChatGPT, Microsoft Azure AI, and Baidu ERNIE Bot through our console. Utilize our **BlueVector Knowledge Base** to upload documents and customize your exclusive enterprise AI assistant.
+Lanying features built-in integration with Large Language Models (LLMs). Enterprises can directly activate and connect to models such as Doubao、DeepSeek、Zhipu GLM、Minimax、Kimi、Aliyun Qwen、OpenAI ChatGPT, Microsoft Azure AI, and Baidu ERNIE Bot through our console. Utilize our **BlueVector Knowledge Base** to upload documents and customize your exclusive enterprise AI assistant.
 
 ---
 
